@@ -1,4 +1,4 @@
-# ventilation-IC-microbiome--resistome-analysis
+# ventilation-IC-microbiome--resistome
 # Ventilation-Associated Infectious Coryza Microbiome and Resistome Analysis
 This repository contains custom scripts and workflow records used for statistical analysis, visualization, and selected bioinformatic summaries in the manuscript:
 Ventilation-shaped farm environments link infectious coryza dissemination, infraorbital sinus microbiome collapse and mobile resistome accumulation in laying hens
