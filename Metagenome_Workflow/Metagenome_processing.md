@@ -10,7 +10,7 @@ This document is intended to provide representative commands and computational p
 
 ---
 
-# 1. Input files and directory structure
+1. Input files and directory structure
 
 Raw paired-end metagenomic reads were assumed to be named as follows:
 
