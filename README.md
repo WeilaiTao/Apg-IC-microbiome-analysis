@@ -3,6 +3,7 @@ This repository contains custom scripts and workflow records used for statistica
 Ventilation-shaped farm environments link infectious coryza dissemination, infraorbital sinus microbiome collapse and mobile resistome accumulation in laying hens
 
 Overview
+
 This study investigated two longitudinally monitored commercial outbreaks of infectious coryza caused by Avibacterium paragallinarum in laying hens. The analyses integrate field-scale spatiotemporal outbreak tracking, environmental and host-associated shotgun metagenomics, microbiome profiling, MAG/SGB recovery, strain-level comparison, SourceTracker analysis, antimicrobial resistance gene profiling, ARG–MGE co-localization, and visualization of transmission-informed biosecurity intervention effects.
 
 Data availability
